@@ -1,0 +1,41 @@
+[{
+        "name": "Introduction to Computer Science",
+        "semester": 1
+    },
+    {
+        "name": "Linear Algebra",
+        "semester": 1
+    },
+    {
+        "name": "English Composition",
+        "semester": 1
+    },
+    {
+        "name": "Art History",
+        "semester": 2
+    },
+    {
+        "name": "Data Structures and Algorithms",
+        "semester": 2
+    },
+    {
+        "name": "Statistics",
+        "semester": 2
+    },
+    {
+        "name": "World History",
+        "semester": 3
+    },
+    {
+        "name": "Software Engineering",
+        "semester": 3
+    },
+    {
+        "name": "Psychology",
+        "semester": 3
+    },
+    {
+        "name": "Introduction to Economics",
+        "semester": 1
+    }
+]
